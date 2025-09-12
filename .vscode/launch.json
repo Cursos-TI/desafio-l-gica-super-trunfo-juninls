@@ -1,5 +1,7 @@
-Nivel Novato{
+{
+    "version": "0.2.0",
     "configurations": [
+        
         {
             "name": "C/C++: gcc build and debug active file",
             "type": "cppdbg",
@@ -27,5 +29,5 @@ Nivel Novato{
             "miDebuggerPath": "/usr/bin/gdb"
         }
     ],
-    "version": "2.0.0"
+    "compounds": []
 }
